@@ -9,6 +9,6 @@ entries:
     name: java-app
     type: application
     urls:
-    - java-app-0.1.0.tgz
+    - https://github.com/dtrouillet/helm-chart/releases/download/0.0.1/java-app-0.1.0.tgz
     version: 0.1.0
 generated: "2021-01-13T17:24:46.606022+01:00"

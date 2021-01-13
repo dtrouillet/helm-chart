@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  java-app:
+  - apiVersion: v1
+    appVersion: 0.0.7
+    created: "2020-05-23T15:13:44.833682112Z"
+    description: The leading open source automation server
+    digest: 835337c07f06f6cacc58b176b6b9924b5a6dfe181fbda5669c542cb657de136a
+    home: 
+    icon: 
+    - automation
+    maintainers:
+    - email: contact@damien-trouillet.fr
+      name: dtrouillet
+    name: java-app
+    sources:
+    - https://github.com/dtrouillet/helm-charts
+    urls:
+    - todo
+    version: 1.7.0

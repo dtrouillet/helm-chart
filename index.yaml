@@ -1,20 +1,14 @@
 apiVersion: v1
 entries:
   java-app:
-  - apiVersion: v1
-    appVersion: 0.0.7
-    created: "2020-05-23T15:13:44.833682112Z"
-    description: The leading open source automation server
-    digest: 835337c07f06f6cacc58b176b6b9924b5a6dfe181fbda5669c542cb657de136a
-    home: 
-    icon: 
-    - automation
-    maintainers:
-    - email: contact@damien-trouillet.fr
-      name: dtrouillet
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-16T19:12:37.262479+01:00"
+    description: A Helm chart for Kubernetes to run any java app with postgresql
+    digest: 417a3cf1084782bb05c7ddd7429c6260750175d7950335957bdc9b109a1c042b
     name: java-app
-    sources:
-    - https://github.com/dtrouillet/helm-charts
+    type: application
     urls:
-    - todo
-    version: 1.7.0
+    - java-app-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-01-16T19:12:37.26153+01:00"

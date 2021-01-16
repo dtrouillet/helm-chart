@@ -3,12 +3,12 @@ entries:
   java-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-13T17:24:46.606741+01:00"
+    created: "2021-01-16T19:12:37.262479+01:00"
     description: A Helm chart for Kubernetes to run any java app with postgresql
-    digest: d33f1c844f82456a0f0376e060a557d13583f0d24edfafeae5a77d1aed75a572
+    digest: 417a3cf1084782bb05c7ddd7429c6260750175d7950335957bdc9b109a1c042b
     name: java-app
     type: application
     urls:
-    - https://github.com/dtrouillet/helm-chart/releases/download/0.0.1/java-app-0.1.0.tgz
-    version: 0.1.0
-generated: "2021-01-13T17:24:46.606022+01:00"
+    - https://github.com/dtrouillet/helm-chart/releases/download/0.0.2/java-app-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-01-16T19:12:37.26153+01:00"
